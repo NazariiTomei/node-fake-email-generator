@@ -1,0 +1,7 @@
+The Fake Mail Generator enables you to circumvent email affirmations by giving you a one time email address to utilize. Next time a site requests your email address, give them a Fake Mail Generator address and stay away from the spam that is certain to follow.
+
+Wherever on the Internet to get to web assets, you have to give your email, yet it is risky in light of the fact that fraudsters begin sending you huge amounts of spam and request your own data. Rather, you can utilize the phony email generator and be sheltered.
+
+Frequently, we register blogs, forums, and websites that we don't visit very often to get some information, especially when we don't feel that the site is safe enough to protect my information. At the same time, too many blogs, forums, and blogs will bring me countless spam, advertising emails, and even account theft risk, so when registering for sites we don't visit very often, we recommend that you use fake mail, which can also receive mails, but is completely anonymous and secure because no one knows who is using this fake email.
+
+This is useful for creating a disposable email address and for avoiding the regular email account inbox from getting filled with spam emails.
