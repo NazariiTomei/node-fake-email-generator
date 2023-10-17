@@ -5,7 +5,7 @@ function fakeEmail(str) {
     let suffix = str.slice(idx);
     
     // start faking
-    let length = strArr.length, result = [];
+    let length = strArr.length, result = [str];
     for (let i = 0; i < length - 1; i++) { // filled count
         for (let j = i; j < length - 1; j++) {
             let pointsArr = getPointsArr(i, j, length);
