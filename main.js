@@ -8,12 +8,14 @@ const readline = require('readline').createInterface({
     output: process.stdout
 });
 
+console.log("Example: abc@xyz.com");
+
 readline.question('Email: ', email => {
     let fakes = fakeEmail(email);
     let logger = fs.createWriteStream('./result.txt');
 
     fakes.forEach((item, idx) => {
-        logger.write(idx + ': ' + item + '\r\n');
+        logger.write(item + '\r\n');
     });
 
     logger.end();
